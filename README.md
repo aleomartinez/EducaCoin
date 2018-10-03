@@ -1,9 +1,13 @@
 EducaCoin Core
 
 Nombre:EducaCoin
+
 Tiempo del bloque:1m
+
 Total supply: 100.000.000
+
 Maduracion: 100
+
 Ajuste de la dificultad: 1440 bloques (1 dia)
 
 
