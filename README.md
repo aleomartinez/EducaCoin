@@ -1,4 +1,5 @@
-EducaCoin Core 
+EducaCoin Core
+
 Nombre:EducaCoin
 Tiempo del bloque:1m
 Total supply: 100.000.000
