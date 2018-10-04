@@ -1,5 +1,7 @@
 EducaCoin Core
 
+Algoritmo: Scrypt
+
 Tiempo de bloque: 1 minuto
 
 Total supply: 100.000.000
@@ -12,7 +14,7 @@ Decimales: 8
 
 Ajuste de la dificultad: 1440 bloques (1 dia)
 
-Maduracion: 100
+Maduracion: 50
 
 Confirmaciones: 6
 
