@@ -6,7 +6,7 @@ Tiempo de bloque: 1 minuto
 
 Total supply: 100.000.000
 
-Recompenza : 50 edc
+Recompenza : 50 EDC
 
 Halving: 1 año se reduce a la mitad la recompenza
 
