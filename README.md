@@ -20,7 +20,7 @@ Confirmaciones: 6
 
 Port: 13781
 
-PortRPC: 9332
+PortRPC: 6666
 
 License
 -------
